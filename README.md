@@ -1,6 +1,14 @@
 
 <h2 align="left">Hi 👋! My name is Renato de Paiva and I'm a back-end developer, from Brazil</h2>
 
+- 🌱 I’m currently learning **Java(and its tools) and Python**
+
+- 💬 Ask me about **Java and Python**
+
+- 📫 How to reach me **renatobelarmino123@gmail.com**, **(86) 99497-5451** and **instagram: renato_l1**
+
+- ⚡ Fun fact **I speak fluent Java, but I still can’t make my coffee with it ☕👨‍💻**
+
 ###
 
 <div align="center">
@@ -10,11 +18,11 @@
 
 ###
 
-- 🌱 I’m currently learning **AWS, SpringBoot, Azure**
+- 🌱 I’m currently learning **Java(and its tools) and Python**
 
-- 💬 Ask me about **Java, Python, mongoDB, JavaFX, mySql, SQL**
+- 💬 Ask me about **Java and Python**
 
-- 📫 How to reach me **renatobelarmino123@gmail.com**
+- 📫 How to reach me **renatobelarmino123@gmail.com**, **(86) 99497-5451** and **instagram: renato_l1**
 
 - ⚡ Fun fact **I speak fluent Java, but I still can’t make my coffee with it ☕👨‍💻**
 
