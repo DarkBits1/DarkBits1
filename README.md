@@ -18,13 +18,7 @@
 
 ###
 
-- 🌱 I’m currently learning **Java(and its tools) and Python**
 
-- 💬 Ask me about **Java and Python**
-
-- 📫 How to reach me **renatobelarmino123@gmail.com**, **(86) 99497-5451** and **instagram: renato_l1**
-
-- ⚡ Fun fact **I speak fluent Java, but I still can’t make my coffee with it ☕👨‍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
